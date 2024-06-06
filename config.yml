@@ -1,0 +1,17 @@
+
+
+delimiter: ','
+columns_to_anonymize:
+  FirstName:
+    type: first_name
+    upper: true
+  SSN:
+    type: ssn
+  FullName:
+    type: custom_name
+    format: '$LAST, $FIRST $MI'
+  DOB:
+    type: datetime
+    format: '%Y/%m/%d'
+    range_start_date: '2000/01/01'
+    range_end_date: '2010/01/01'
