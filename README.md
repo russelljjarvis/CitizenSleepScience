@@ -8,3 +8,4 @@ Sleep based Citizen Science Workflows, for generating and sharing interesting sl
 
 ### sensors:
 
+Google Nest Hub, Withings mattress.
