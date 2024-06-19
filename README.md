@@ -1,16 +1,7 @@
 # Citizen Sleep Science
 Sleep based Citizen Science Workflows, for generating and sharing interesting sleep health data.
 
-## Workflow 1: Metriport (Android app only)
-1 In the Google Play store, download the app called "Metriport"
-2 Open Metriport for the first time.
-
-
-Compare weight to sleep duration
-Compare exercise duration against sleep duration
-
-
-## Workflow 2: Python Plot of Google Take Out Data
+## Workflow 1: Python Plot of Google Take Out Data
 ![for_README.png](for_README.png)
 
 If you are using any of the following sensors:
@@ -35,11 +26,19 @@ Navigate to the web page:
 
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/750e3c11-8c34-43f7-908d-89ab3ef6ffed)
 
+
+## Workflow 2: Metriport (Android app only)
+1 In the Google Play store, download the app called "Metriport"
+2 Open Metriport for the first time.
+
+
+Compare weight to sleep duration
+Compare exercise duration against sleep duration
+
+
+
+
+
 <!---
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/5a490405-6518-4a7e-a9e1-275efd34586b)
 --->
-
-
-
-
-
