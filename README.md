@@ -34,7 +34,10 @@ Navigate to the web page:
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/e86afe63-6c4b-4c5b-adc6-354caf6b2227)
 
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/750e3c11-8c34-43f7-908d-89ab3ef6ffed)
+
+<!---
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/5a490405-6518-4a7e-a9e1-275efd34586b)
+--->
 
 
 
