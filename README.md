@@ -13,12 +13,12 @@ Compare exercise duration against sleep duration
 ## Workflow 2: Python Plot of Google Take Out Data
 ![for_README.png](for_README.png)
 
-
+If you are using any of the following sensors:
 ### sensors:
+
 Google Nest Hub, Withings mattress, google watch, withings body + scales.
 
-
-Google Nest Hub, Withings mattress.
+..and if you are synching these sensors with Google Fit, or Google Health Connect, after recording the data for some time, you can download the data from Google as zip files. You can then analyze this data yourself using a Programming language like Python, or in principal you should be able to anonymise the data and then donate it, to a sleep health project. 
 
 
 Navigate to the web page:
