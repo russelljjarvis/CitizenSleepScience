@@ -23,9 +23,11 @@ Google Nest Hub, Withings mattress.
 
 Navigate to the web page:
 
+![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/c21ded31-7f8a-4c9f-99e5-0e13fb661090)
+
+
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/d5c9cf20-cd7f-415a-ac2c-f547fc2e052c)
 
-![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/c21ded31-7f8a-4c9f-99e5-0e13fb661090)
 
 ![image](https://github.com/russelljjarvis/CitizenSleepScience/assets/7786645/08fc4e1f-1c7f-4cc1-889d-fb622bb980f0)
 
