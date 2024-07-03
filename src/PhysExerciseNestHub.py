@@ -42,7 +42,7 @@ def setup_build_plot():
           duration_  = float(sleep_["duration"][0:-1])/3600.0
           df_raw["start"] = pd.to_datetime(sleep_["startTime"], utc=True).tz_convert('Australia/ACT')#.tz_localize(None)#+" "+df_raw["start"].str[:8]).dt.floor('h')
           df_raw["stop"] = pd.to_datetime(sleep_["endTime"], utc=True).tz_convert('Australia/ACT')#.tz_localize(None) #+" "+df_raw["stop"].str[:8]).dt.floor('h')
-          df_raw["duration"] = duration_#pd.to_datetime(sleep_["duration"])
+          df_raw["duration"] = duration_
           df_raw["activity_dttm"] = pd.to_datetime(df_raw["start"])#.str[:8]).dt.floor('h')  
           df_by_day.append(df_raw)  
 data0 = df_to_pivot_table(df_by_day)        
@@ -79,7 +79,7 @@ ax.set_theta_direction(-1)
 # plot data
 theta, r = np.meshgrid(np.linspace(0,2*np.pi,len(data)+1),np.arange(len(data.columns)+1))
 ax.pcolormesh(theta,r,data.T.values, cmap="Reds")
-
+fig.colorbar(p,ax=ax)
 # set ticklabels
 pos,step = np.linspace(0,2*np.pi,len(data),endpoint=False, retstep=True)
 pos += step/2.
