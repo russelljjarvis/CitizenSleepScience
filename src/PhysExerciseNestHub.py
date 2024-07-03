@@ -35,7 +35,7 @@ def setup_build_plot():
   df_by_day = []
   for s in everything:
       with open(s, 'r') as f:
-          df_raw = {}#pd.DataFrame(columns=["start","stop","duration"])
+          df_raw = {}
           sleep_ = json.load(f)
           start_  = sleep_["startTime"][-10:-1]
           stop_  = sleep_["endTime"][-10:-1]
