@@ -12,4 +12,3 @@ Compare exercise duration against sleep duration
 Google Nest Hub, Withings mattress, google watch, withings body + scales.
 
 
-Google Nest Hub, Withings mattress.
